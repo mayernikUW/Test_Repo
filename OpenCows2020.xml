@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.0/metadata.xsd">
+  <identifier identifierType="DOI">10.5523/BRIS.10M32XL88X2B61ZLKKGZ3FML17</identifier>
+  <creators>
+    <creator>
+      <creatorName>Billy Andrew</creatorName>
+      <nameIdentifier nameIdentifierScheme="URN">http://data.bris.ac.uk/people/236596</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Tilo Burghardt</creatorName>
+      <nameIdentifier nameIdentifierScheme="URN">http://data.bris.ac.uk/people/73870</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Neill Campbell</creatorName>
+      <nameIdentifier nameIdentifierScheme="URN">http://data.bris.ac.uk/people/10574</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Jing Gao</creatorName>
+      <nameIdentifier nameIdentifierScheme="URN">http://data.bris.ac.uk/people/448624</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>OpenCows2020</title>
+    <title titleType="AlternativeTitle">Visual Identification of Individual Holstein Friesian Cattle via Deep Metric Learning</title>
+  </titles>
+  <publisher>University of Bristol</publisher>
+  <publicationYear>2020</publicationYear>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Engineering and Physical Sciences Research Council</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">http://dx.doi.org/10.13039/501100000266</funderIdentifier>
+      <awardNumber>EP/N510129/1</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <contributors/>
+  <language>eng</language>
+  <relatedIdentifiers>
+    <relatedIdentifier relationType="Cites" relatedIdentifierType="URN">https://github.com/CWOA/MetricLearningIdentification</relatedIdentifier>
+    <relatedIdentifier relationType="IsCitedBy" relatedIdentifierType="URN">https://arxiv.org/abs/2006.09205</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">This dataset accompanies the paper - "Visual Identification of Individual Holstein Friesian Cattle via Deep Metric Learning" available at - https://arxiv.org/abs/2006.09205.
+It consists of two components: (a) detection and localisation, (b) identification.
+For an overview of this dataset, refer to Section 3 in the paper.
+For any queries, contact the corresponding author in the paper.
+For accompanying source code, check out - https://github.com/CWOA/MetricLearningIdentification</description>
+  </descriptions>
+  <formats>
+    <format>image/jpeg</format>
+    <format>application/xml</format>
+    <format>text/plain; charset=windows-1252</format>
+    <format>application/octet-stream</format>
+    <format>text/plain; charset=ISO-8859-1</format>
+  </formats>
+</resource>
