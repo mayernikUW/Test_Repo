@@ -3,7 +3,7 @@
   <identifier identifierType="DOI">10.5523/BRIS.10M32XL88X2B61ZLKKGZ3FML17</identifier>
   <creators>
     <creator>
-      <creatorName>Matt Mayernik</creatorName>
+      <creatorName>Billy Andrew</creatorName>
       <nameIdentifier nameIdentifierScheme="URN">http://data.bris.ac.uk/people/236596</nameIdentifier>
     </creator>
     <creator>
@@ -53,5 +53,4 @@ For accompanying source code, check out - https://github.com/CWOA/MetricLearning
     <format>application/octet-stream</format>
     <format>text/plain; charset=ISO-8859-1</format>
   </formats>
-
 </resource>
